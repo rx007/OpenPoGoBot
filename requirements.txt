@@ -18,8 +18,8 @@ pycryptodomex==3.4.2
 python-engineio==0.9.2
 python-socketio==1.4.2
 PyYAML==3.11
-requests==2.10.0
+requests==2.20
 s2sphere==0.2.4
 six==1.10.0
 Werkzeug==0.11.10
-wheel==0.24.0
+wheel==0.38.0
