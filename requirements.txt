@@ -15,7 +15,7 @@ MarkupSafe==0.23
 protobuf==3.0.0b4
 protobuf-to-dict==0.1.0
 pycryptodomex==3.4.2
-python-engineio==0.9.2
+python-engineio==3.9.0
 python-socketio==1.4.2
 PyYAML==3.11
 requests==2.10.0
