@@ -3,7 +3,7 @@ colorama==0.3.7
 enum34==1.1.6
 Flask==0.11.1
 Flask-SocketIO==2.6
-future==0.15.2
+future==0.18.3
 geopy==1.11.0
 googlemaps==2.4.4
 gpsoauth==0.3.0
