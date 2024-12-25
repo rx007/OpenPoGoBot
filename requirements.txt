@@ -9,7 +9,7 @@ googlemaps==2.4.4
 gpsoauth==0.3.0
 greenlet==0.4.10
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==3.1.5
 MarkupSafe==0.23
 -e git+https://github.com/tejado/pgoapi.git@e7c395523e25e357215bb16ac243103f846ddc5b#egg=pgoapi-dev
 protobuf==3.0.0b4
