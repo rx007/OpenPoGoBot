@@ -12,7 +12,7 @@ itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
 -e git+https://github.com/tejado/pgoapi.git@e7c395523e25e357215bb16ac243103f846ddc5b#egg=pgoapi-dev
-protobuf==3.0.0b4
+protobuf==3.18.3
 protobuf-to-dict==0.1.0
 pycryptodomex==3.4.2
 python-engineio==0.9.2
@@ -23,3 +23,4 @@ s2sphere==0.2.4
 six==1.10.0
 Werkzeug==0.11.10
 wheel==0.24.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
